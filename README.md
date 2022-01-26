@@ -1,7 +1,7 @@
 ### Hi there, I'm [Miguel Cabrera](https://mcabsan.dev) 👋
 I'm a fullstack developer based in Tenerife, Canary Island!
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on [Lean Mind](https://leanmind.es/en/)
 - 🌱 I’m currently learning clean architecture
