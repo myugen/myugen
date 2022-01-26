@@ -3,7 +3,7 @@ I'm a fullstack developer based in Tenerife, Canary Island!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [System73](https://system73.com)
+- 🔭 I’m currently working on [Lean Mind](https://leanmind.es/en/)
 - 🌱 I’m currently learning clean architecture
 - 💬 Ask me about React, Angular, Java, Golang
 - 📫 How to reach me: you can check [my personal website](https://mcabsan.dev) or [my twitter](https://twitter.com/mcabsan)
